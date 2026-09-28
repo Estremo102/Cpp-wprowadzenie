@@ -12,6 +12,7 @@ int main()
 	//string pierwsze.imie; niepoprawna zmienna
 	//string (pierwsze)imie; niepoprawna zmienna
 	//string imie^pierwsze; niepoprawna zmienna
+
 	int wiek;
 
 	cout << "Jak masz na imie?\n"; // pytamy się użytkownika o imię
