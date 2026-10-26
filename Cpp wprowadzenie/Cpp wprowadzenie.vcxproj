@@ -142,6 +142,7 @@
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Petle.cpp" />
     <ClCompile Include="prawdaFalsz.cpp" />
+    <ClCompile Include="switch.cpp" />
     <ClCompile Include="wczytywanieDanych.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
