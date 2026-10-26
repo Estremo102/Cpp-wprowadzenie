@@ -43,4 +43,12 @@ int main()
 			cout << "nieznany numer " << wybor << " podzespol niezindentyfikowany";
 			break;
 	}
+	/*cout << "Krowo krowo jakie dajesz mleko? ";
+	string mleko;
+	cin >> mleko;
+	switch (mleko)	ten switch wywoła błąd w kompilacji, 
+	{				w C++ w przeciwieństwie do np C#
+	case "czarne":	nie można oprzeć instrukcji switch o typ tekstowy
+		
+	}*/
 }
