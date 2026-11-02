@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="gotoiContinue.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Petle.cpp" />
     <ClCompile Include="prawdaFalsz.cpp" />
